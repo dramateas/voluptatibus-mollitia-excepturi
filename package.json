@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@dramateas/voluptatibus-mollitia-excepturi",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,42 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/dramateas/voluptatibus-mollitia-excepturi.git"
   },
   "dependencies": {
+    "@diotobtea/reprehenderit-alias-cum-consectetur": "^1.0.0",
+    "@dramateas/at-nam-vel-cum": "^1.0.0",
+    "@dramateas/blanditiis-molestias-exercitationem-quis": "^1.0.0",
+    "@dramateas/corrupti-ipsum-deleniti-porro": "^1.0.0",
+    "@dramateas/cum-laboriosam-consequatur-laboriosam": "^1.0.0",
+    "@dramateas/doloremque-corrupti-non-eveniet": "^1.0.0",
+    "@dramateas/expedita-quasi-eligendi-omnis": "^1.0.0",
+    "@dramateas/facilis-quae-omnis-consequatur": "^1.0.0",
+    "@dramateas/fuga-dolore-provident-excepturi": "^1.0.0",
+    "@dramateas/iure-possimus-animi-ducimus": "^1.0.0",
+    "@dramateas/magni-explicabo-esse-magnam": "^1.0.0",
+    "@dramateas/nihil-vero-cum-tempore": "^1.0.0",
+    "@dramateas/nulla-voluptatibus-aliquid-quia": "^1.0.0",
+    "@dramateas/odit-corporis-adipisci-laboriosam": "^1.0.0",
+    "@dramateas/porro-in-corporis-explicabo": "^1.0.0",
+    "@dramateas/quis-nisi-error-quos": "^1.0.0",
+    "@dramateas/quos-aut-natus-odit": "^1.0.0",
+    "@dramateas/recusandae-molestiae-mollitia-modi": "^1.0.0",
+    "@dramateas/recusandae-perferendis-accusantium-architecto": "^1.0.0",
+    "@dramateas/saepe-necessitatibus-quam-tempora": "^1.0.0",
+    "@dramateas/similique-facere-mollitia-quibusdam": "^1.0.0",
+    "@dramateas/similique-soluta-ab-rem": "^1.0.0",
+    "@dramateas/similique-vero-saepe-delectus": "^1.0.0",
+    "@dramateas/unde-porro-quidem-distinctio": "^1.0.0",
+    "@dramateas/ut-distinctio-aliquam-est": "^1.0.0",
+    "@dramateas/veritatis-quidem-quis-odit": "^1.0.0",
+    "@erboladaiteas/quasi-ullam-placeat-consequuntur": "^1.0.0",
+    "@hishpr/excepturi-beatae-at-inventore": "^1.0.0",
+    "@juiggitea/praesentium-porro-voluptates-officiis": "^1.0.0",
+    "@kollusietea/consequuntur-nam-tempora-expedita": "^1.0.0",
+    "@patrten/fugiat-officiis-placeat-eius": "^1.0.0",
+    "@swenkertrea/sint-ipsa-delectus-rem": "^1.0.0",
+    "@taktikangea/delectus-atque-vero-error": "^1.0.0",
+    "@zittertea/aliquam-asperiores-veritatis-totam": "^1.0.0"
   }
 }
